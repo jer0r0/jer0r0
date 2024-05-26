@@ -2,7 +2,7 @@
 
 <p align="center"> 
 <a href="https://jer0r0.github.io/me/"><img src="https://github.com/jer0r0/jer0r0/assets/97175757/62c2c14a-5986-4271-894c-e59bcdc79cfa" alt="Cat"/a>
-Hello! My name is Jeronimo. I am a student in the back-end area at Oracle, passionate about technology and innovation. Welcome to my portfolio where you can find information about me and my projects.
+Hello! My name is Jeronimo. I am a student in the back-end area at Oracle, passionate about technology and innovation. Welcome to my Profile where you can find information about me and my projects.
 </p>
   
 
