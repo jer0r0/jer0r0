@@ -2,6 +2,7 @@
 
 <p align="center"> 
 <a href="https://jer0r0.github.io/me/"><img src="https://github.com/jer0r0/jer0r0/assets/97175757/62c2c14a-5986-4271-894c-e59bcdc79cfa" alt="Cat"/a>
+Hello! My name is Jeronimo. I am a student in the back-end area at Oracle, passionate about technology and innovation. Welcome to my portfolio where you can find information about me and my projects.
 </p>
   
 
@@ -21,7 +22,7 @@ const JERORO = {
 }
 ```
 
-![Jeronimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jer0r0&show_icons=true&theme=radical)
+
 
 
  You can find me 🌎: 
