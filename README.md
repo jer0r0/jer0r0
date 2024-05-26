@@ -1,4 +1,36 @@
-## Hi there 👋
+## Hi, I'm Jeronimo 🐸 🇨🇴🇨🇴
+
+<p align="center"> 
+<a href="https://jer0r0.github.io/me/"><img src="https://github.com/jer0r0/jer0r0/assets/97175757/62c2c14a-5986-4271-894c-e59bcdc79cfa" alt="Cat"/a>
+</p>
+  
+
+
+
+
+<div align="center" width="200">
+<h1>De colombia para el mundo</h1>
+</div>
+
+```js
+const JERORO = {
+    pronouns: "He" | "Him",
+    technologies:{
+                  JavaScript, HTML, CSS, Java, C++, Python}
+    Challenge: "Be better everyday"
+}
+```
+
+![Jeronimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jer0r0&show_icons=true&theme=radical)
+
+
+ You can find me 🌎: 
+- [Blog](https://jer0r0.github.io/me/)
+- [Instagram](https://www.instagram.com/jero.oro/)
+- [linkedIn](https://www.linkedin.com/in/jero-oro/)
+- Valorant: TDY JERORO #BOT
+ 
+
 
 <!--
 **jer0r0/jer0r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
